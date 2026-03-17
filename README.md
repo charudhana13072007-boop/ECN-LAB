@@ -24,15 +24,9 @@
 
 **CIRCUIT DIAGRAM:**
 
-
-
-
-
-
-
-
-
-
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/ff3b6c1c-8654-438d-8906-98b65238bcb6" />
+**TABULAR COLUMN:*
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/10ca4559-3054-4f91-9530-92e15010baf8" />
 
 
 **PROCEDURE:**
@@ -48,6 +42,9 @@
  *5.Reduce the RPS to its minimum value and switch OFF the supply.*
   
  *6.Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.*
+ **MARK SPLIT:*
+ ![WhatsApp Image 2026-03-17 at 7 16 58 PM](https://github.com/user-attachments/assets/c70a8093-ea37-4707-b5df-af516849517a)
+
 
 **RESULT:**
 
